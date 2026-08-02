@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "C:\\Users\\Administrator\\Documents\\Codex\\2026-08-02\\hatch-pet-c-users-administrator-codex\\work\\lunaria-run\\final\\spritesheet-despilled.png",
+  "file": "C:\\Users\\Administrator\\Documents\\Codex\\2026-08-02\\hatch-pet-c-users-administrator-codex\\work\\lunaria-spritesheet-fixed.png",
   "format": "PNG",
   "mode": "RGBA",
   "columns": 8,
@@ -161,7 +161,7 @@
       "row": 2,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16354,
+      "nontransparent_pixels": 16412,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -170,7 +170,7 @@
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 15539,
+      "nontransparent_pixels": 16166,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -179,7 +179,7 @@
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 15365,
+      "nontransparent_pixels": 16339,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -188,7 +188,7 @@
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 14374,
+      "nontransparent_pixels": 15995,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -197,7 +197,7 @@
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 15940,
+      "nontransparent_pixels": 16331,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -206,7 +206,7 @@
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 17561,
+      "nontransparent_pixels": 15187,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -215,7 +215,7 @@
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 17351,
+      "nontransparent_pixels": 15495,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -224,7 +224,7 @@
       "row": 2,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 15675,
+      "nontransparent_pixels": 15795,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
