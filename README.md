@@ -1,4 +1,4 @@
-# Lunaria Codex Pet
+# lunaria-codex-pet
 
 Lunaria is a Codex-compatible v2 animated pet based on a white dragon maiden reference.
 
